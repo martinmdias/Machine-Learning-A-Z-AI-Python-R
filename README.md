@@ -7,6 +7,8 @@ Section 3: Data Preprocessing in Python
 
 Section 4: Data Preprocessing in R
 
+Section 5: --------------------- Part 2: Regression ---------------------
+
 Section 6: Simple Linear Regression
 
 Section 7: Multiple Linear Regression
@@ -17,3 +19,8 @@ Section 9: Support Vector Regression (SVR)
 
 Section 10: Decision Tree Regression
 
+Section 11: Random Forest Regression
+
+Section 12: Evaluation Regression Models Performance
+
+Section 13: Regression Model Selection in R
