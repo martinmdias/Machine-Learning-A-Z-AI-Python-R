@@ -3,4 +3,8 @@
 
 Part 1: Data Preprocessing
 
-Part 2: Regression
+Section 6: Simple Linear Regression
+
+Section 7: Multiple Linear Regression
+
+Section 8: Polynomial Regression
