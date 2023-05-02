@@ -3,7 +3,9 @@
 
 Section 2: --------------------- Part 1: Data Preprocessing ---------------------
 
-Section 3: Data Preprocessing in Python
+[Section 3: Data Preprocessing in Python](https://github.com/martinmdias/Machine-Learning-A-Z-AI-Python-R/tree/main/Section%202.%20Part%201.%20Data%20Preprocessing)
+
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 Section 4: Data Preprocessing in R
 
