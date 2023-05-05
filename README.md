@@ -31,4 +31,4 @@ Section 15: --------------------- Part 3: Classification ---------------------
 
 Section 16: Logistic Regression
 
-Section 17: K-Nearest Neighbors (K-NN)
+[Section 17: K-Nearest Neighbors (K-NN)](https://github.com/martinmdias/Machine-Learning-A-Z-AI-Python-R/tree/main/Section%2017.%20K-Nearest%20Neighbors%20(K-NN))
