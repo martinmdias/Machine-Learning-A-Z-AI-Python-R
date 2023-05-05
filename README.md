@@ -23,4 +23,12 @@ Section 11: Random Forest Regression
 
 Section 12: Evaluation Regression Models Performance
 
-Section 13: Regression Model Selection in R
+Section 13: Regression Model Selection in Python
+
+Section 14: Regression Model Selection in R
+
+Section 15: --------------------- Part 3: Classification ---------------------
+
+Section 16: Logistic Regression
+
+Section 17: K-Nearest Neighbors (K-NN)
